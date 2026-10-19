@@ -33,13 +33,6 @@ DeepSeek и Qwen собрал AI Link. **Не писал код руками** �
 ## Скриншоты
 
 
-## Скриншоты
-
-[Главное окно](docs/main.png)
-[Запуск и план](docs/plan.png)
-[Настройки агентов](docs/settings.png)
-[Стартовый экран](docs/start.png)
-
 ## Что умеет
 
 - Пишет код по текстовому ТЗ (plan → code → review → fix → verify)
