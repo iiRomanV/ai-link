@@ -1,0 +1,15 @@
+# AI Link — .gitignore (внутри приложения)
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.diagnostics/
+*.bak
+*.bak_*
+_bak/
+.env
+.env.*
+!.env.example
+secrets.json
+*.key
+*.pem

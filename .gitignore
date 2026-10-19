@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+.venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Данные AI Link (НЕ публикуем — там память, паттерны, история)
+.ai_link/
+*.db
+*.db-journal
+*.db-wal
+.diagnostics/
+
+# Секреты
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Бэкапы
+*.bak
+*.bak_*
+_bak/
+
+# Логи
+*.log
+logs/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
